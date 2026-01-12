@@ -1,0 +1,7 @@
+git diff 
+git revert - undo command in git will create a new checkpoint id
+
+steps to create a new feature
+1. git branch feature_name
+2. git checkout feature_name
+3. git checkout -b feature_name
